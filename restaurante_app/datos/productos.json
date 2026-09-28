@@ -1,0 +1,16 @@
+[
+    {
+        "id_producto": 1,
+        "nombre": "Hamburguesa",
+        "precio": 5.5,
+        "categoria": "Platos fuertes",
+        "stock": 10
+    },
+    {
+        "id_producto": 2,
+        "nombre": "Jugo de naranja",
+        "precio": 2.0,
+        "categoria": "Bebidas",
+        "stock": 20
+    }
+]
